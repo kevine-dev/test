@@ -1,4 +1,4 @@
-const token='99a06b17e1b5fb29f0d102b3a2d11690'
+
 const items=document.querySelector('.items')
 const input=document.querySelector('input')
 const form=document.querySelector('form')
